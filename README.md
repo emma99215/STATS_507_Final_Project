@@ -1,2 +1,8 @@
-Stats 507 surveys the software tools that are currently popular among data scientists in academia and industry. The course begins with an accelerated introduction to programming in Python. Next, we focus on Python’s scientific computing stack: numpy, scipy, pandas, and scikit-learn. We also cover using git and the high-level debugging. The final part of the course is an introduction to deep learning using PyTorch.
-This repository is intended to record my progress and understanding of Python and its applications in data science.
+# 🎧 AI VibeMatch
+A Context-Aware Music Recommendation Engine built for STATS 507.
+
+## How to Run the App
+1. Clone this repository to your local machine.
+2. Install the required dependencies (see below).
+3. Open your terminal and run the following command:
+`streamlit run app.py`
