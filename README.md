@@ -1,6 +1,6 @@
 # 🎧 AI VibeMatch
 **Context-Aware Music Recommendation Engine**
-\n*STATS 507 Final Project*
+*STATS 507 Final Project*
 
 ## Project Overview
 AI VibeMatch is an interactive Streamlit web application that utilizes Hugging Face Natural Language Processing (NLP) and K-Nearest Neighbors (KNN) machine learning to generate context-aware, 30-track Spotify playlists. 
