@@ -24,8 +24,8 @@ Per the initial project proposal, this codebase adheres to **Object-Oriented Pro
 
 ### 1. Clone the Repository
 ```bash
-git clone <https://github.com/emma99215/STATS507-coursework.git>
-cd <YOUR-REPO-FOLDER-NAME>
+git clone [https://github.com/emma99215/STATS507-coursework.git](https://github.com/emma99215/STATS507-coursework.git)
+cd STATS507-coursework
 ```
 ### 2. Create a Virtual Environment (Recommended)
 ```bash
